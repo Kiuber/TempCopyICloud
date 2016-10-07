@@ -1,0 +1,9 @@
+D:\users\administrator\documents\visual studio 2015\Projects\临时整理\临时整理\bin\Debug\临时整理.exe.config
+D:\users\administrator\documents\visual studio 2015\Projects\临时整理\临时整理\bin\Debug\临时整理.exe
+D:\users\administrator\documents\visual studio 2015\Projects\临时整理\临时整理\bin\Debug\临时整理.pdb
+D:\users\administrator\documents\visual studio 2015\Projects\临时整理\临时整理\obj\Debug\临时整理.csprojResolveAssemblyReference.cache
+D:\users\administrator\documents\visual studio 2015\Projects\临时整理\临时整理\obj\Debug\临时整理.Form1.resources
+D:\users\administrator\documents\visual studio 2015\Projects\临时整理\临时整理\obj\Debug\临时整理.Properties.Resources.resources
+D:\users\administrator\documents\visual studio 2015\Projects\临时整理\临时整理\obj\Debug\临时整理.csproj.GenerateResource.Cache
+D:\users\administrator\documents\visual studio 2015\Projects\临时整理\临时整理\obj\Debug\临时整理.exe
+D:\users\administrator\documents\visual studio 2015\Projects\临时整理\临时整理\obj\Debug\临时整理.pdb
